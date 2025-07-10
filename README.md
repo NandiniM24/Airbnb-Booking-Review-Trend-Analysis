@@ -4,7 +4,6 @@ A full-stack data warehousing and analytics project exploring booking behavior, 
 
 ---
 
----
 
 ## 📎 Data Source
 
