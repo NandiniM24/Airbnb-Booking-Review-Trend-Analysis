@@ -14,7 +14,7 @@ A full-stack data warehousing and analytics project exploring booking behavior, 
 ## 👤 Contributors
 
 **Nandini Malviya**  
-[LinkedIn](https://www.linkedin.com/in/nandini-malviya-/) | [GitHub](https://github.com/NandiniM24) | ✉️ nandini.malviya24@gmail.com
+[LinkedIn](https://www.linkedin.com/in/nandini-malviya-/) | [Portfolio](https://nandinimalviya.wixsite.com/myportfolio)| ✉️ nandini.malviya24@gmail.com
 
 ---
 
