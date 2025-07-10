@@ -4,9 +4,28 @@ A full-stack data warehousing and analytics project exploring booking behavior, 
 
 ---
 
+---
+
+## 📎 Data Source
+
+- 📥 [InsideAirbnb – Denver Dataset](http://insideairbnb.com/get-the-data.html)
+
+---
+
+## 👤 Contributors
+
+**Nandini Malviya**  
+[LinkedIn](https://www.linkedin.com/in/nandini-malviya-/) | [GitHub](https://github.com/NandiniM24) | ✉️ nandini.malviya24@gmail.com
+
+---
+
+> 💡 *This project was developed as part of the ISM 6208 – Data Warehousing course at the University of South Florida.*
+
+---
+
 ## 📌 Project Summary
 
-This project delivers an end-to-end data analytics pipeline — from ETL and dimensional modeling to advanced SQL and interactive visualizations — based on real-world Airbnb datasets from [InsideAirbnb](http://insideairbnb.com/get-the-data.html).
+This project delivers an end-to-end data analytics pipeline — from ETL and dimensional modeling to advanced SQL and interactive visualizations — based on real-world Airbnb datasets.
 
 We modeled the data into a **star schema**, analyzed over **100,000 listings**, and built dashboards in Tableau and Python to uncover trends that help hosts, guests, and platform stakeholders make smarter decisions.
 
@@ -115,5 +134,10 @@ We modeled the data into a **star schema**, analyzed over **100,000 listings**, 
 
 ---
 
-## 🗂️ Project Structure
+
+## 🚀 Future Work
+
+- Integrate review sentiment via NLP  
+- Build predictive models for price and booking likelihood  
+- Deploy dashboards to Tableau Public or Streamlit
 
