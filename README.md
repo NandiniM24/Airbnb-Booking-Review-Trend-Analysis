@@ -27,7 +27,7 @@ We modeled the data into a **star schema**, analyzed over **100,000 listings**, 
 - **ETL Steps**: Cleaned nulls, removed outliers, mapped time hierarchy (weekday, month, quarter), imported CSVs to Oracle
 - **Validation**: Foreign key integrity, date formatting, duplicate filtering
 
-![Star Schema ERD](./Picture9.png)
+![Star Schema ERD](./sql/Picture9.png)
 
 ---
 
@@ -35,7 +35,7 @@ We modeled the data into a **star schema**, analyzed over **100,000 listings**, 
 
 ### 📊 1. Monthly Trends – Avg Price & Reviews by Room Type
 
-![Monthly Trends](./Picture1.png)
+![Monthly Trends](./visuals/Picture1.png)
 
 - Entire homes peak in summer
 - Private rooms maintain consistent engagement at lower price points
@@ -44,7 +44,7 @@ We modeled the data into a **star schema**, analyzed over **100,000 listings**, 
 
 ### 📈 2. Monthly Availability Trend (2024–2025)
 
-![Availability Trend](./Picture2.png)
+![Availability Trend](./visuals/Picture2.png)
 
 - Availability dips in early spring and rebounds during holidays
 - Dynamic pricing strategies can be applied to match demand cycles
@@ -53,7 +53,7 @@ We modeled the data into a **star schema**, analyzed over **100,000 listings**, 
 
 ### 📍 3. Best Value Neighborhoods (Price vs Reviews)
 
-![Price vs Reviews](./Picture3.png)
+![Price vs Reviews](./visuals/Picture3.png)
 
 - Capitol Hill offers premium pricing with high reviews  
 - Downtown underperforms in guest engagement despite lower prices
@@ -62,7 +62,7 @@ We modeled the data into a **star schema**, analyzed over **100,000 listings**, 
 
 ### 🧩 4. Listing Counts by Room Type
 
-![Listing Counts](./Picture4.png)
+![Listing Counts](./visuals/Picture4.png)
 
 - Entire homes dominate the inventory
 - Shared rooms are underrepresented across all neighborhoods
@@ -71,7 +71,7 @@ We modeled the data into a **star schema**, analyzed over **100,000 listings**, 
 
 ### 🔥 5. Heatmap – Avg Price by Room Type & Neighborhood
 
-![Heatmap Room Type](./Picture5.png)
+![Heatmap Room Type](./visuals/Picture5.png)
 
 - Capitol Hill is the most expensive zone
 - Baker is the most affordable across all room types
@@ -80,7 +80,7 @@ We modeled the data into a **star schema**, analyzed over **100,000 listings**, 
 
 ### 🏙️ 6. Avg Price by Room Type Across Neighborhoods
 
-![Bar Chart](./Picture6.png)
+![Bar Chart](./visuals/Picture6.png)
 
 - Price hierarchy remains consistent — entire homes > private rooms  
 - Ideal for setting competitive prices by room category
@@ -89,7 +89,7 @@ We modeled the data into a **star schema**, analyzed over **100,000 listings**, 
 
 ### 🌐 7. Heatmap – Avg Price by Neighborhood
 
-![Neighborhood Heatmap](./Picture7.png)
+![Neighborhood Heatmap](./visuals/Picture7.png)
 
 - Visual benchmark of which neighborhoods are priced highest
 
@@ -97,7 +97,7 @@ We modeled the data into a **star schema**, analyzed over **100,000 listings**, 
 
 ### 📊 8. Price Range Distribution (Pie Chart)
 
-![Price Range Pie](./Picture8.png)
+![Price Range Pie](./visuals/Picture8.png)
 
 - 41% of listings priced over $200
 - Budget options (< $100) form a small segment
