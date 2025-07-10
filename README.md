@@ -27,7 +27,7 @@ We modeled the data into a **star schema**, analyzed over **100,000 listings**, 
 - **ETL Steps**: Cleaned nulls, removed outliers, mapped time hierarchy (weekday, month, quarter), imported CSVs to Oracle
 - **Validation**: Foreign key integrity, date formatting, duplicate filtering
 
-![Star Schema ERD](./sql/Star schema.png)
+![Star Schema ERD](./sql/Picture9.png)
 
 ---
 
